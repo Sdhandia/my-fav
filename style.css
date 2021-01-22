@@ -1,0 +1,25 @@
+body {
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+h1 {
+    color: chartreuse;
+
+}
+
+h2 {
+
+    color: darkorange;
+}
+
+h3 {
+    color: darkslateblue;
+}
+
+p {
+    font-size: 30px;
+    color: indianred;
+    font-family: 'Lobster', cursive;
+    
+}
